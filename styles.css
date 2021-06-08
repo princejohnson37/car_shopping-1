@@ -6,6 +6,7 @@
 	float: left;
 	margin-right: 2.5%;
 	margin-top: 1%;
+	border-radius : 8px;
 }
 #icon2{
 	height: 400px; 
@@ -15,6 +16,7 @@
 	float: left; 
 	margin-right: 2.5%; 
 	margin-top: 1%; 
+	border-radius: 8px;
 }
 #icon3{
 	height: 400px; 
@@ -23,6 +25,7 @@
 	background-color: black; 
 	float: left; 
 	margin-top: 1%; 
+	border-radius: 8px;
 }
 #heading{
 	color: black; 
