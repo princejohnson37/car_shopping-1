@@ -1,0 +1,44 @@
+#icon1{
+	height: 400px;
+	width: 31%;
+	border-style: solid;
+	background-color: black;
+	float: left;
+	margin-right: 2.5%;
+	margin-top: 1%;
+}
+#icon2{
+	height: 400px; 
+	width: 31%;
+	border-style: solid; 
+	background-color: black; 
+	float: left; 
+	margin-right: 2.5%; 
+	margin-top: 1%; 
+}
+#icon3{
+	height: 400px; 
+	width: 31%; 
+	border-style: solid; 
+	background-color: black; 
+	float: left; 
+	margin-top: 1%; 
+}
+#heading{
+	color: black; 
+	background-color: red; 
+	text-align: center; 
+	font-size: 200px; 
+	text-shadow: 5px 5px rgb(255,255,255);
+}
+input{
+	float: right; 
+}
+img{
+	height: 80%;
+	width: 100%;
+}
+*{
+	background-color: black; 
+	color: red;
+}
